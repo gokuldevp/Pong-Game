@@ -1,7 +1,5 @@
 # Pong-Game
 
-## So this project consists of Pong Game that i created .It is based on the 22th Day project of the 100 days of python coding in 100 days of coding course in udemy.
-
 ## It mainlly consists of 8 steps :
 ### Step 1: Create the screen
 ### Step 2: Create and move paddle 1
